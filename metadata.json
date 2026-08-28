@@ -1,0 +1,6 @@
+{
+  "name": "Image Identifier",
+  "description": "Native Android Visual AI Identifier & Scanner suite featuring real-time camera recognition, authenticity detection, valuation appraisals, batch queue processing, 4K AI re-imagination, and offline Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
