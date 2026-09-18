@@ -1,4 +1,5 @@
-<img width="1728" height="2304" alt="1789738438740-01a0b4b6-e186-79ac-bfd3-c71381c7bceb" src="https://github.com/user-attachments/assets/cf9176ee-10bf-4275-bb74-bf38fe1072ab" />
+<img width="1280" height="1920" alt="1789738313784-01a0b4b6-e186-78a8-ba30-ba2c24670c92" src="https://github.com/user-attachments/assets/5fc787fe-0689-4ef5-bfaa-1f1b1b60bcfd" />
+
 
 # ⚡ Morphs Creations SysRescue & Windows Doctor v1.30
 ### Elevated Windows Servicing, Deep Diagnostics, Component Store Healing & Custom Theme Protection Engine
