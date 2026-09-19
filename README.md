@@ -1,4 +1,4 @@
-<img width="1280" height="1920" alt="1789738313784-01a0b4b6-e186-78a8-ba30-ba2c24670c92" src="https://github.com/user-attachments/assets/5fc787fe-0689-4ef5-bfaa-1f1b1b60bcfd" />
+<img width="1024" height="1536" alt="1789239361743-01a096f9-6956-718d-80cd-6a0a48d519f2" src="https://github.com/user-attachments/assets/452d509c-2884-4031-a9ef-9fa4f6afd0dc" />
 
 
 # ⚡ Morphs Creations SysRescue & Windows Doctor v1.30
